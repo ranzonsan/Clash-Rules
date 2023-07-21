@@ -3,6 +3,9 @@ payload:
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,s.team
+  - DOMAIN,community.akamai.steamstatic.com
+  - DOMAIN,cdn.akamai.steamstatic.com
+  - DOMAIN,store.akamai.steamstatic.com
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
