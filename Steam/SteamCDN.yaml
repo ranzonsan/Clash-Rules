@@ -1,5 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,test.steampowered.com
+  - DOMAIN,test.steampowered.com
+  - DOMAIN,api.steampowered.com
   - DOMAIN-SUFFIX,rmbgame.net
   ## >> Akamai Download CDN
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
